@@ -1,0 +1,5 @@
+*.log
+*.txt
+*_one
+*hg*
+hg_*.md
